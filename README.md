@@ -5,7 +5,7 @@ Projetos responsivos criado no curso: "CSS Avançado" da Origamid
 * CSS
 * HTML
 
-#Projeto 01:
+# Projeto 01:
 
 ![](https://github.com/iorgama/origamid_css_avancado/blob/main/Exemplo-01/img/exercicio01.png)
 
